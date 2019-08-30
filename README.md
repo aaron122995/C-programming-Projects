@@ -2,6 +2,7 @@
 <ol>
   <li>Bubble Sort Algorithm</li>
   <li>Finding nth Fibonacci Number</li>
- 
+  <li>FizzBuzz Challenge</li>
+  <li>Reverse an array</li>
  
  </ol>
