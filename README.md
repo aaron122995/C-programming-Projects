@@ -8,5 +8,7 @@
   <li>Return an unique list of an array</li>
   <li>Store Calculator Program</li>
   <li>Pattern Generating Program</li>
+  <li>Triangle pattern program</li>
   <li>Exchange Rate Analysis Program</li>
+  <li>list of squares of numbers from -10 to 10</li>
  </ol>
