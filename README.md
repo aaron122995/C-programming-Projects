@@ -11,4 +11,5 @@
   <li>Triangle pattern program</li>
   <li>Exchange Rate Analysis Program</li>
   <li>list of squares of numbers from -10 to 10</li>
+  <li>Multiplication Table</li>
  </ol>
