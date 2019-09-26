@@ -13,4 +13,5 @@
   <li>list of squares of numbers from -10 to 10</li>
   <li>Multiplication Table</li>
   <li>Finding the day of week of an input date</li>
+  <li>Simplex Method to solve linear programming problems</li>
  </ol>
