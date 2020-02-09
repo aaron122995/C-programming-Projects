@@ -14,4 +14,5 @@
   <li>Multiplication Table</li>
   <li>Finding the day of week of an input date</li>
   <li>Simplex Method to solve linear programming problems</li>
+  <li>Tic Tac Toe Game</li>
  </ol>
